@@ -10,3 +10,5 @@ Por assim dizer, se eu "comecei" na área há tanto tempo, também posso dizer q
 
  # Redes:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcosvazoliveira) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcosvaz.dev)
+
+> “Seja curioso. Leia de tudo. Tente coisas novas. Eu acho que muito do que as pessoas chamam de inteligência apenas se resume a curiosidade.” — Aaron Swartz
